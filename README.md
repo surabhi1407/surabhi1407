@@ -25,7 +25,6 @@ I believe technology should **remove friction, not add it**. Whether it’s data
 ### 🧰 Tech stack
 <p>
   <img src="https://img.shields.io/badge/GCP-blue" />
-  <img src="https://img.shields.io/badge/AWS-lightblue" />
   <img src="https://img.shields.io/badge/dbt-Core-orange" />
   <img src="https://img.shields.io/badge/Python-3.x-green" />
   <img src="https://img.shields.io/badge/SQL%20Standard%20SQL-lightgrey" />
@@ -39,9 +38,9 @@ I believe technology should **remove friction, not add it**. Whether it’s data
 ---
 
 ## 🔗 Featured work
-- **Data Platform Hub** — patterns, templates, runbooks *(link to repo)*
-- **BigQuery Cost Observability** — alerts + dashboards *(link to repo)*
-- **Automation Factory** — AI-assisted codegen rules *(link to repo)*
+- **Data Platform Hub** — patterns, templates, runbooks 
+- **BigQuery Cost Observability** — alerts + dashboards 
+- **Automation Factory** — AI-assisted codegen rules 
 
 ---
 
