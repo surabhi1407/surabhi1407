@@ -30,26 +30,5 @@ I believe technology should **remove friction, not add it**. Whether it’s data
   <img src="https://img.shields.io/badge/SQL%20Standard%20SQL-lightgrey" />
 </p>
 
-### Focus areas
-- BigQuery **cost observability** & query-level alerting  
-- **Platform patterns** for dbt + Composer (safe deploys, templates)  
-- **Agentic development** for data teams (Cursor rules, task automations)
-
----
-
-## Featured work
-- **Data Platform Hub** — patterns, templates, runbooks 
-- **BigQuery Cost Observability** — alerts + dashboards 
-- **Automation Factory** — AI-assisted codegen rules 
-
----
-
-## Certifications
-- GCP Data Engineer
-
-## AI Training 
-Practical workshops for non-tech folks on **GenAI/LLMs**, **LLMs in production**, and **Data Engineering (dbt + Airflow + BigQuery)**.  
-👉 Full details & reviews: **[AI Training page](https://surabhi1407.github.io/ai-training/)**
-
 ---
 <img src="https://komarev.com/ghpvc/?username=surabhi1407" />
